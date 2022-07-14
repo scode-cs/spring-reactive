@@ -5,3 +5,7 @@ spring:
   application:
     name: spring-reactive
 
+springdoc:
+  swagger-ui:
+    enabled: true
+    path: /swagger-ui
